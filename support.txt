@@ -1,0 +1,14 @@
+Registration
+{
+    "first_name":"Rezaul",
+    "last_name":"Shaon",
+    "email":"rkshaon.ist@gmail.com",
+    "username":"rkshaon",
+    "password":"root"
+}
+
+Authentication
+{
+    "credential": "rkshaon",
+    "password": "root"
+}
